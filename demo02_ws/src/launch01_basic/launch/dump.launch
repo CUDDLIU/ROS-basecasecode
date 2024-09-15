@@ -1,0 +1,6 @@
+<launch>
+        <!-- <include file = "$(find launch01_basic)/launch/start_turtle.launch"/> -->
+        <rosparam command="dump" file = "$(find launch01_basic)/launch/param_out.yaml" />
+        <!-- 删除参数 -->
+        <rosparam command = "delete" param="bg_B" />
+</launch>

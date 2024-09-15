@@ -1,0 +1,17 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_cuddliu_lenovo_legion_y7000__33553: 'http://cuddliu-Lenovo-Legion-Y7000:33553/',
+    host_cuddliu_lenovo_legion_y7000__35235: 'http://cuddliu-Lenovo-Legion-Y7000:35235/',
+    host_cuddliu_lenovo_legion_y7000__35541: 'http://cuddliu-Lenovo-Legion-Y7000:35541/',
+    host_cuddliu_lenovo_legion_y7000__37029: 'http://cuddliu-Lenovo-Legion-Y7000:37029/',
+    host_cuddliu_lenovo_legion_y7000__37923: 'http://cuddliu-Lenovo-Legion-Y7000:37923/',
+    host_cuddliu_lenovo_legion_y7000__39523: 'http://cuddliu-Lenovo-Legion-Y7000:39523/',
+    host_cuddliu_lenovo_legion_y7000__44465: 'http://cuddliu-Lenovo-Legion-Y7000:44465/',
+    host_cuddliu_lenovo_legion_y7000__45823: 'http://cuddliu-Lenovo-Legion-Y7000:45823/'}
+rosversion: '1.14.13
+
+  '
+run_id: d9d3d0d8-4aa9-11ef-bd54-e86a6433521e
+turtlesim: {background_b: 255, background_g: 86, background_r: 69}
